@@ -1,4 +1,4 @@
-#A Beginner's Journey to Generative AI: Exploring with Hugging Face & Colab
+# A Beginner's Journey to Generative AI: Exploring with Hugging Face & Colab
 
 ![Alt text](hug.png)
 
@@ -14,22 +14,34 @@ Generative AI, or GenAI, refers to a subset of artificial intelligence that focu
 
 Hugging Face is at the forefront of the AI community, providing a robust, user-friendly platform for experimenting with, training, and deploying AI models. With its extensive collection of pre-trained models and easy-to-use interfaces, Hugging Face is an ideal platform for beginners to start their journey into GenAI.
 
-## Repository Structure
-
-- **Introduction to GenAI**: Understand the basics of generative models, their applications, and potential.
-- **Getting Started with Hugging Face**: A beginner's guide to setting up and using Hugging Face.
-- **Tutorials and Examples**: Step-by-step tutorials and examples to help you get hands-on experience with GenAI models.
-- **Resources**: A curated list of resources like articles, videos, and documentation to deepen your understanding.
-- **Projects**: Sample projects to apply your learning and experiment with real-world applications.
-- **Community Contributions**: Contributions from the community, including tips, tricks, and additional resources.
 
 ## How to Use This Repository
 
-1. **Start with the Basics**: If you're new to AI or GenAI, begin with the introductory materials.
-2. **Hands-On Learning**: Move on to the tutorials and examples to start working with the models.
-3. **Explore Further**: Dive into the resources section for more in-depth knowledge.
-4. **Apply Your Learning**: Try out the projects to apply what you've learned in practical scenarios.
-5. **Community Engagement**: Participate in the community by sharing your experiences and learning from others.
+Step 1: Setting Up Your Google Colab Environment
+
+- Google Colab Introduction: Access Google Colab, a cloud-based Jupyter notebook environment, at Google Colab.
+
+- Installing Hugging Face Transformers: 
+  Run !pip install transformers in a Colab notebook.
+
+- Google Drive Connection (Optional): For data and model management, connect your Google Drive as per instructions in Google Colab Tutorial (https://www.youtube.com/watch?v=8KeJZBZGtYo).
+
+Step 2: Demystifying Large Language Model Cards
+
+- Exploring Hugging Face Model Hub: Visit Hugging Face Models to browse various models.
+- Understanding Model Cards: Each model comes with a "model card" providing detailed information. (See the GPT-2 Model Card for an example.)
+
+Step 3: Downloading and Running Pre-trained Models in Colab
+
+- Select a Model: Example using GPT-2 for text generation.
+
+- Model and Tokenizer Setup: Instructions on loading your chosen model and tokenizer in Colab.
+
+Step 4: Testing the Text Generation Interface
+
+- Setting Up the Pipeline: Create a text generation pipeline using Hugging Face's pipeline function.
+- Generating Text: Experiment with different prompts and observe the model's responses.
+
 
 ## Contributing
 
