@@ -1,4 +1,4 @@
-# Roadmap_to_GenAI - Beginner_roadmap_to_GenAI_with_HuggingFace
+#A Beginner's Journey to Generative AI: Exploring with Hugging Face & Colab
 
 ![Alt text](hug.png)
 
