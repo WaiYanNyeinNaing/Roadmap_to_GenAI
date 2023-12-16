@@ -2,7 +2,7 @@ Certainly! Here's the final README with hyperlinks that you can copy directly fr
 
 ---
 
-# Beginner's Roadmap to GenAI with Hugging Face & Colab
+# Developer Roadmap to GenAI with Hugging Face & Colab
 
 ![Alt text](hug.png)
 
