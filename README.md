@@ -1,7 +1,3 @@
-Certainly! Here's the final README with hyperlinks that you can copy directly from this chat:
-
----
-
 # Developer Roadmap to GenAI with Hugging Face & Colab
 
 ![Alt text](hug.png)
