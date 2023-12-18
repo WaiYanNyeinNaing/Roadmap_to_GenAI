@@ -45,6 +45,4 @@ This project is available under the [MIT License](LICENSE).
 
 For questions or discussions, open an issue or contact the maintainers directly.
 
----
 
-Feel free to use this README for your GitHub repository. It's been formatted to be clear and concise while providing all the necessary information for users to get started.
